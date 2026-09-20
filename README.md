@@ -6,7 +6,7 @@
 
 </div>
 
-Building AI agents, developer tools, and wild ideas.
+Building some wild ideas.
 > I use AI to multiply the number of things I can overthink at once.
 
 **Languages**
