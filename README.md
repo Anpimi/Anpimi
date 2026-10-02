@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, Call me Pomeow. 👋
+# Hi, Call me Pipimi. 👋
 
 ### AI Victim · Internet Explorer
 
