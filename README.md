@@ -9,13 +9,6 @@
 Building some wild ideas.
 > I use AI to multiply the number of things I can overthink at once.
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
 **Tools**
 
 <p>
